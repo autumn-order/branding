@@ -11,8 +11,9 @@ Collection of all logos & banners used by Autumn across social media platforms &
 | Discord     | https://discord.gg/WvA8Vb9C7D                     |
 | YouTube     | https://www.youtube.com/@autumn-order             |
 | Twitch      | https://www.twitch.tv/autumnorder                 |
-| Bluesky     | https://bsky.app/profile/autumn-order.bsky.social |
-| Reddit      | https://www.reddit.com/r/autumnorder              |
+| Bluesky     | https://bsky.app/profile/autumn-order.com         |
+| Sub-Reddit  | https://www.reddit.com/r/autumnorder              |
+| Reddit      | https://www.reddit.com/u/autumn-order             |
 | GitHub      | https://github.com/autumn-order                   |
 | Soundcloud  | https://soundcloud.com/autumn-order               |
 
