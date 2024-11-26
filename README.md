@@ -1,4 +1,5 @@
-![Autumn Banner](autumn-github-banner.png)
+[![Autumn Banner](autumn-github-banner-dark.png#gh-light-mode-only)](https://autumn-order.com/)
+[![Autumn Banner](autumn-github-banner-light.png#gh-dark-mode-only)](https://autumn-order.com/)
 
 # Autumn Branding
 
